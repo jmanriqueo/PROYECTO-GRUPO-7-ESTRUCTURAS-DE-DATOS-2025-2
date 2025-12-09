@@ -1,6 +1,0 @@
-import java.util.*;
-public class Graph {
-    //aquí se guardarán los Ids de las Materias y sus prerrequisitos
-    
-    
-}
