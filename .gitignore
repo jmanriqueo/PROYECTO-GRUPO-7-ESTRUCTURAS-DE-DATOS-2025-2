@@ -1,0 +1,9 @@
+# Maven
+target/
+
+# IDEs
+.vscode/
+.idea/
+
+# Sistema
+*.class
